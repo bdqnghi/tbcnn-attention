@@ -39,7 +39,7 @@ scikit_learn == 0.24.0
 # tbcnn-attention/util/data/data_loader/base_data_loader.py: 2
 # tbcnn-attention/util/network/base_layer.py: 2
 # tbcnn-attention/util/network/tbcnn.py: 2
-tensorflow == 2.4.0
+tensorflow == 2.5.0
 
 # tbcnn-attention/script/download_data.py: 3
 # tbcnn-attention/util/data/data_processor/c_txl_data_processor.py: 12,13
